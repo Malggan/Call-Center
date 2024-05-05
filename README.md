@@ -1,8 +1,8 @@
 ## Índice
 
-* ["Anonymous Bank" Call-Center](#:classical_building:anonymous-bank-call-center)
+* ["Anonymous Bank" Call-Center](#classical_building-anonymous-bank-call-center)
 
-* [Análisis de los datos](#:newspaper:análisis-de-los-datos)
+* [Análisis de los datos](#newspaper-análisis-de-los-datos)
 
 * [Dashboard](#bar_chart-dashboard-y-funcionalidades)
 
