@@ -2,7 +2,7 @@
 
 * ["Anonymous Bank" Call-Center DataSet](#:classical_building:Anonymous-Bank-Call-Center-DataSet)
 
-* [Análisis de los datos](#:newspaper:Análisis-de-los-datos)
+* [Análisis de los datos](#:newspaper:analisis-de-los-datos)
 
 * [Dashboard](#bar_chart-dashboard-y-funcionalidades)
 
