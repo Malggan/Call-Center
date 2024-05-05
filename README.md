@@ -58,7 +58,7 @@ Limpieza y Transformación de Datos: Se realizaron diversas transformaciones de 
 Creación de Medidas y Columnas Calculadas: En Power BI, se crearon medidas y columnas calculadas utilizando DAX (Data Analysis Expressions) para calcular métricas adicionales y realizar análisis más avanzados sobre los datos. Esto permitió agregar más contexto y profundidad al dashboard final.
 
 <p align="center">
-<img src="Call Center IMGS/DashB.jpg" alt="imagen dashboard completo" width="650" height="400">
+<img src="Call Center IMGS/DashBoard.jpg" alt="imagen dashboard completo" width="650" height="400">
 </p>
 <br>
 
