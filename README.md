@@ -54,7 +54,7 @@ Antes de desarrollar el dashboard, se llevó a cabo un Análisis Exploratorio de
 
 
 
-## ❓ Preguntas
+## :question: Preguntas
 
 * ¿Cuál es el nivel de servicio para los clientes Prioritarios? 
 * ¿Damos un mejor servicio que a los clientes normales?
