@@ -1,6 +1,6 @@
 ## Índice
 
-* ["Anonymous Bank" Call-Center DataSet](#:classical_building:anonymous-bank-call-center-dataSet)
+* ["Anonymous Bank" Call-Center](#:classical_building:anonymous-bank-call-center)
 
 * [Análisis de los datos](#:newspaper:análisis-de-los-datos)
 
@@ -9,7 +9,7 @@
 * [Preguntas](#question-preguntas)
 
 
-# :classical_building: "Anonymous Bank" Call-Center DataSet 
+# :classical_building: "Anonymous Bank" Call-Center
 
 Este documento describe caso de negocio basado en un Call Center de un Banco: “Anonymous Bank” localizado en Israel. El dataset contiene las llamadas registradas durante 12 meses (desde el 01/01/99 hasta el 31/12/99).
 
