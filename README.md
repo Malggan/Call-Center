@@ -1,15 +1,15 @@
 
 ## Índice
 
-* ["Anonymous Bank" Call-Center DataSet] (#Anonymous-Bank-Call-Center-DataSet)
+* ["Anonymous Bank" Call-Center DataSet](#Anonymous-Bank-Call-Center-DataSet)
 
-* [Call Center] (#telephone_receiver-call-center)
+* [Call Center](#telephone_receiver-call-center)
 
-* [Análisis de los datos] (#Análisis-de-los-datos)
+* [Análisis de los datos](#Análisis-de-los-datos)
 
-* [Dashboard] (#bar_chart-dashboard)
+* [Dashboard](#bar_chart-dashboard)
 
-+ [Preguntas] (#question-preguntas)
+* [Preguntas](#question-preguntas)
 
 
 # 🏛️ "Anonymous Bank" Call-Center DataSet 
