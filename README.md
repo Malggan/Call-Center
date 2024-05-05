@@ -1,18 +1,16 @@
 
 ## Índice
 
-* ["Anonymous Bank" Call-Center DataSet](#Anonymous-Bank-Call-Center-DataSet)
+* ["Anonymous Bank" Call-Center DataSet](#:classical_building:Anonymous-Bank-Call-Center-DataSet)
 
-* [Call Center](#telephone_receiver-call-center)
-
-* [Análisis de los datos](#Análisis-de-los-datos)
+* [Análisis de los datos](#:newspaper:Análisis-de-los-datos)
 
 * [Dashboard](#bar_chart-dashboard)
 
 * [Preguntas](#question-preguntas)
 
 
-# 🏛️ "Anonymous Bank" Call-Center DataSet 
+# :classical_building: "Anonymous Bank" Call-Center DataSet 
 
 Este documento describe caso de negocio basado en un Call Center de un Banco: “Anonymous Bank” localizado en Israel. El dataset contiene las llamadas registradas durante 12 meses (desde el 01/01/99 hasta el 31/12/99).
 
@@ -39,20 +37,18 @@ En conclusión se solicita definir, construir y presentar un Dashboard que permi
 
 <br>
 
-## 📰 Análisis de los datos
+## :newspaper: Análisis de los datos
 
-Antes de desarrollar el dashboard, se llevó a cabo un Análisis Exploratorio de Datos (EDA) para comprender la estructura del conjunto de datos, identificar posibles problemas de calidad de los datos y descubrir patrones y tendencias importantes. 
+Antes de desarrollar el dashboard en Power BI, se realizó un exhaustivo Análisis Exploratorio de Datos (EDA) utilizando herramientas como Power Query y Power BI. Durante este proceso, se llevaron a cabo las siguientes acciones:
 
+Exploración de Datos: Se utilizó Power Query para importar y explorar el conjunto de datos original. Esto incluyó la identificación de columnas, la revisión de tipos de datos y la detección de posibles problemas de calidad de datos.
+Limpieza y Transformación de Datos: Se realizaron diversas transformaciones de datos en Power Query para limpiar y preparar el conjunto de datos para su análisis. Esto incluyó la eliminación de valores duplicados, la corrección de valores erróneos, la conversión de tipos de datos y la creación de nuevas columnas calculadas para enriquecer los datos.
+Creación de Medidas y Columnas Calculadas: En Power BI, se crearon medidas y columnas calculadas utilizando DAX (Data Analysis Expressions) para calcular métricas adicionales y realizar análisis más avanzados sobre los datos. Esto permitió agregar más contexto y profundidad al dashboard final.
 
-
-
-
-
-
-
-
-
-
+<p align="center">
+<img src="Call Center IMGS/EDA.jpg" alt="Dashboeard completo" width="650" height="400">
+</p>
+<br>
 
 ## :question: Preguntas
 
@@ -68,6 +64,6 @@ Antes de desarrollar el dashboard, se llevó a cabo un Análisis Exploratorio de
 <br>
 
 <p align="center">
-<img src="https://github.com/Malggan/Call-Center/blob/main/Call%20Center%20IMGS/DashB.jpg" alt="Dashboeard completo" width="650" height="400">
+<img src="Call Center IMGS/EDA.jpg" alt="Dashboeard completo" width="650" height="400">
 </p>
 <br>
